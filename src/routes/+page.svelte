@@ -1,5 +1,5 @@
 <script>
-  import LanyardStuff from './LanyardStuff.svelte';
+  import LanyardStuff from './lanyardStuff.svelte';
   import AlbumArt from './AlbumArt.svelte';
 
   let spellings = ['jenku', 'njenku', 'njeku', 'jenlu', 'njeknu', 'jeknun', 'jenkins', 'kenlu', 'jalapeno', 'jackal', 'janky', 'jnkue', 'jonku', 'jeky', 'nkey', 'keyboard', 'junke', 'uknej', 'jekun', 'jenky', 'j_nk'
