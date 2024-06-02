@@ -87,9 +87,9 @@
       </div>
 
       <div class="socials">
-        <a href="https://github.com/yourgithub" target="_blank">github</a>
-        <a href="https://twitter.com/yourtwitter" target="_blank">twitter</a>
-        <a href="https://discord.com/yourdiscord" target="_blank">discord</a>
+        <a href="https://github.com/jenkuuuuuu" target="_blank">github</a>
+        <a href="https://twitter.com/jenkiest" target="_blank">twitter</a>
+        <a href="https://discord.com/users/323205750262595595" target="_blank">discord</a>
       </div>
 
       <div class="separator"></div>
